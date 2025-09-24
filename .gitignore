@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (don’t commit large or private files)
+data/netflix_fb_comments.csv
+src/models/*.joblib
